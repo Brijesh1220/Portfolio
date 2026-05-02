@@ -28,7 +28,7 @@ export default function Footer() {
       >
         Designed &amp; built with ❤️ by{' '}
         <Box component="span" sx={{ color: 'amber.main' }}>
-          Brijesh Kumar
+          Brijesh Singh
         </Box>{' '}
         · Gurugram, India ·{' '}
         <Box component="span" sx={{ color: 'amber.main' }}>

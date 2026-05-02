@@ -22,7 +22,7 @@ export default function Home() {
         <Modules />
         <Skills />
         <Education />
-        <TargetCompanies />
+        {/* <TargetCompanies /> */}
         <Contact />
       </main>
       <Footer />

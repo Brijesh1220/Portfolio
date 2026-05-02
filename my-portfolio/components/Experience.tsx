@@ -65,7 +65,6 @@ export default function Experience() {
               top: 8,
               bottom: 8,
               width: 1,
-              background: 'linear-gradient(to bottom, #f5a623, transparent)',
             },
           }}
         >

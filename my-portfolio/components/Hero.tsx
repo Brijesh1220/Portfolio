@@ -75,7 +75,7 @@ export default function Hero() {
           animation: 'fadeInScale 1.4s cubic-bezier(0.16,1,0.3,1) 0.3s both',
         }}
       >
-        3+
+        4
       </Box>
 
       {/* Tag line */}
@@ -104,7 +104,7 @@ export default function Hero() {
             textTransform: 'uppercase',
           }}
         >
-          Full Stack Engineer
+          Full Stack Developer
         </Typography>
       </Box>
 
@@ -123,7 +123,7 @@ export default function Hero() {
         <Box component="span" sx={{ color: '#f5a623' }}>j</Box>
         esh
         <br />
-        Kumar
+        Singh
       </Typography>
 
       {/* Subtitle */}
@@ -256,40 +256,6 @@ export default function Hero() {
             </Typography>
           </Box>
         ))}
-      </Box>
-
-      {/* Scroll hint */}
-      <Box
-        sx={{
-          position: 'absolute',
-          bottom: 60,
-          left: { xs: 24, md: 48 },
-          display: { xs: 'none', md: 'flex' },
-          flexDirection: 'column',
-          alignItems: 'center',
-          gap: 1,
-          animation: 'fadeUp 0.7s ease 1.2s both',
-        }}
-      >
-        <Typography
-          sx={{
-            fontFamily: '"DM Mono", monospace',
-            fontSize: 10,
-            color: '#6b7280',
-            letterSpacing: '0.2em',
-            writingMode: 'vertical-rl',
-          }}
-        >
-          scroll
-        </Typography>
-        <Box
-          sx={{
-            width: 1,
-            height: 60,
-            background: 'linear-gradient(to bottom, #f5a623, transparent)',
-            animation: 'scrollPulse 2s ease infinite',
-          }}
-        />
       </Box>
     </Box>
   );

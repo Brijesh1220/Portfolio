@@ -1,4 +1,4 @@
-# Brijesh Kumar — Portfolio
+# Brijesh Singh — Portfolio
 
 A modern, animated portfolio built with **Next.js 15**, **TypeScript**, and **Material UI v6**.
 

@@ -2,13 +2,13 @@ import type { Metadata } from 'next';
 import Providers from '@/components/Providers';
 
 export const metadata: Metadata = {
-  title: 'Brijesh Kumar — Full Stack Engineer',
+  title: 'Brijesh Singh — Full Stack Developer',
   description:
-    'Portfolio of Brijesh Kumar, Full Stack Engineer with 3+ years building enterprise-scale React applications at Incedo Technology Solutions.',
-  keywords: ['Brijesh Kumar', 'Full Stack Engineer', 'React Developer', 'Next.js', 'Node.js', 'Portfolio'],
-  authors: [{ name: 'Brijesh Kumar' }],
+    'Portfolio of Brijesh Singh, Full Stack Developer with almost 4 years building enterprise-scale React applications at Incedo Technology Solutions.',
+  keywords: ['Brijesh Singh', 'Full Stack Developer', 'React Developer', 'Next.js', 'Node.js', 'Portfolio'],
+  authors: [{ name: 'Brijesh Singh' }],
   openGraph: {
-    title: 'Brijesh Kumar — Full Stack Engineer',
+    title: 'Brijesh Singh — Full Stack Developer',
     description: 'Crafting enterprise-scale React interfaces that move a hundred thousand people.',
     type: 'website',
   },
